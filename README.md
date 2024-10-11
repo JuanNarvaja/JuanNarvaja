@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamó Juan Narvaja</h1>
 <h3 align="center">Soy un Analista de Datos apasionado</h3>
 
-- 🌱 I’m currently learning **ArcGIS Pro**
+- 🌱 I’m currently learning **ArcGIS Pro** y **Ciencia de Datos con Azure**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/PortafolioJuanNarvaja](https://bit.ly/PortafolioJuanNarvaja)
 
